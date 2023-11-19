@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim527&label=Profile%20views&color=0e75b6&style=flat" alt="nazim527" /> </p>
 
-- 🌱 I’m currently learning **REACT,TYPESCRIPT**
+- 🌱 I’m currently learning **Next.js,TYPESCRIPT**
 
-- 💬 Ask me about **HTML,CSS,SASS,BOOTSTRAP,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,SASS,BOOTSTRAP,JAVASCRIPT,React,Redux,Matreial UI,Rest API**
 
 - 📫 How to reach me **nazimrzayev527@gmail.com**
 
