@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nazim</h1>
-<h3 align="left">As a Junior Frontend Developer, I am proud of my journey in self-development. With each project I take on, I am constantly challenging myself to learn and grow. From honing my coding skills to exploring new design techniques, I am always eager to expand my knowledge and push the boundaries of what I can achieve.</h3>
+<h3 align="left">As a Frontend Developer, I am proud of my journey in self-development. With each project I take on, I am constantly challenging myself to learn and grow. From honing my coding skills to exploring new design techniques, I am always eager to expand my knowledge and push the boundaries of what I can achieve.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim527&label=Profile%20views&color=0e75b6&style=flat" alt="nazim527" /> </p>
